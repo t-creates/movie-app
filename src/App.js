@@ -6,7 +6,7 @@ import './App.css';
 
 // 7a20458a  API Key
 
-const API_URL = 'http://www.omdbapi.com?apikey=7a20458a';
+const API_URL = 'https://www.omdbapi.com?apikey=7a20458a';
 
 // const movie1 = {
 //   "Title": "Batman Begins",
